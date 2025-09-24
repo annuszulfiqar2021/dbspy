@@ -1,7 +1,3 @@
-Here’s a **super cool, professional, and engaging README** draft for your **DBSPy** repository. I’ll keep it academic but also make it approachable and polished—something that appeals to both researchers and developers:
-
----
-
 # 🌀 DBSPy
 
 *A Pythonic implementation of Differential/Incremental Dataflow (DBSP)*
