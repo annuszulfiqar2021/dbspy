@@ -3,7 +3,7 @@
 *A Pythonic implementation of Differential/Incremental Dataflow (DBSP)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue)]()
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
 ---
