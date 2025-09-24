@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="DBSPy Logo" width="250"/>
+</p>
+
 # 🌀 DBSPy
 
 *A Pythonic implementation of Differential/Incremental Dataflow (DBSP)*
