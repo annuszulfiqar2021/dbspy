@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-2.png" alt="DBSPy Logo" width="500"/>
+  <img src="assets/logo-2.png" alt="DBSPy Logo" width="300"/>
 </p>
 
 # 🌀 DBSPy
